@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.rvplot</groupId>
+        <groupId>com.basewebapp</groupId>
         <artifactId>basewebapp</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
@@ -24,21 +24,21 @@
                     <defaultLibBundleDir>lib</defaultLibBundleDir>
                     <modules>
                         <jarModule>
-                            <groupId>com.rvplot</groupId>
-                            <artifactId>RvPlotEntity</artifactId>
+                            <groupId>com.basewebapp</groupId>
+                            <artifactId>Entity</artifactId>
                         </jarModule>
                         <jarModule>
-                            <groupId>com.rvplot</groupId>
-                            <artifactId>RvPlotBusinessLogic</artifactId>
+                            <groupId>com.basewebapp</groupId>
+                            <artifactId>BusinessLogic</artifactId>
                         </jarModule>
                         <jarModule>
-                            <groupId>com.rvplot</groupId>
-                            <artifactId>RvPlotService</artifactId>
+                            <groupId>com.basewebapp</groupId>
+                            <artifactId>Service</artifactId>
                         </jarModule>
                         <webModule>
-                            <groupId>com.rvplot</groupId>
-                            <artifactId>RvPlotView</artifactId>
-                            <contextRoot>/rvplot</contextRoot>
+                            <groupId>com.basewebapp</groupId>
+                            <artifactId>View</artifactId>
+                            <contextRoot>/basewebapp</contextRoot>
                         </webModule>
                     </modules>
                 </configuration>
@@ -48,25 +48,25 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.rvplot</groupId>
+            <groupId>com.basewebapp</groupId>
             <artifactId>Entity</artifactId>
             <version>${project.version}</version>
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.rvplot</groupId>
+            <groupId>com.basewebapp</groupId>
             <artifactId>BusinessLogic</artifactId>
             <version>${project.version}</version>
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.rvplot</groupId>
+            <groupId>com.basewebapp</groupId>
             <artifactId>Service</artifactId>
             <version>${project.version}</version>
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.rvplot</groupId>
+            <groupId>com.basewebapp</groupId>
             <artifactId>View</artifactId>
             <version>${project.version}</version>
             <type>war</type>
