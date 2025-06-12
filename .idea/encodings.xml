@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotBusinessLogic/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotBusinessLogic/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotEar/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotEar/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotEntity/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotEntity/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotView/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvPlotView/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvplotService/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/RvplotService/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/rvplot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/BusinessLogic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/BusinessLogic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/View/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/View/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basewebapp/src/main/resources" charset="UTF-8" />
   </component>
 </project>

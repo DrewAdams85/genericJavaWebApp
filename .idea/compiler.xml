@@ -6,16 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="RvPlotBusinessLogic" />
-        <module name="RvPlotEntity" />
-        <module name="RvPlotEar" />
-        <module name="RvPlotView" />
-      </profile>
-      <profile name="Annotation profile for rvplot" enabled="true">
-        <sourceOutputDir name="../RvPlotService/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../RvPlotService/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="RvPlotService" />
+        <module name="BusinessLogic" />
+        <module name="Entity" />
+        <module name="Service" />
+        <module name="View" />
+        <module name="Ear" />
       </profile>
     </annotationProcessing>
   </component>
